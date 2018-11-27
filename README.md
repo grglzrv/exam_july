@@ -21,7 +21,7 @@
 
 ## List of the exams
 
-[***Programming Basics Sample Exam - 25 November 2018***](/Simple_EXAM)
+[**Programming Basics Sample Exam - 25 November 2018**](/Simple_EXAM)
 
 [**Programming Basics Online Exam - 3 and 4 November 2018**](/exam_november)
 
