@@ -1,7 +1,6 @@
 # Programming Basics - Exercises
 
-
-## List of exercises
+## List of the all exercises
 
 [**Day 1**](/Day_1)
 
@@ -18,9 +17,11 @@
 [**Day 7**](/Day_7)
 
 
-## List of exams
+# Programming Basics - Exams
 
-[*Programming Basics Sample Exam - 25 November 2018*](/Simple_EXAM)
+## List of the exams
+
+[***Programming Basics Sample Exam - 25 November 2018***](/Simple_EXAM)
 
 [**Programming Basics Online Exam - 3 and 4 November 2018**](/exam_november)
 
