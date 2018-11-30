@@ -31,3 +31,5 @@
 
 [**Programming Basics Exam Preparation - 23 July and 05 November 2017**](/exam_preparation_2017)
 
+[**Programming Basics Online Exam - CATS 2017 **](/exam_cats_2017)
+
