@@ -25,6 +25,9 @@
 
 [**Programming Basics Online Exam - 3 and 4 November 2018**](/exam_november)
 
+[**Programming Basics Online Retake Exam - 11 and 12 August 2018**](/retake_exam_august)
+
 [**Programming Basics Online Exam - 28 and 29 July 2018**](/exam_july)
 
 [**Programming Basics Exam Preparation - 23 July and 05 November 2017**](/exam_preparation_2017)
+
